@@ -1,0 +1,1953 @@
+{
+  "course_title": "Selenium WebDriver with Java Basics to Advanced",
+  "sections": [
+    {
+      "title": "01 - Selenium Introduction",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Course FAQ's- (Must Watch Lecture)",
+          "video": "01 - Selenium Introduction/001 Course FAQ's- (Must Watch Lecture).mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Social proof for  BEST SELLER in Selenium Category(Must Watch)",
+          "video": "01 - Selenium Introduction/002 Social proof for  BEST SELLER in Selenium Category(Must Watch).mp4",
+          "docs": [
+            "01 - Selenium Introduction/003 Selenium syllabus & How to reach Trainer for Queries.html",
+            "01 - Selenium Introduction/003 Selenium-Course-Content.ppt",
+            "01 - Selenium Introduction/004 Introduction.pptx"
+          ]
+        },
+        {
+          "id": "004",
+          "title": "Selenium Features- What you need to know",
+          "video": "01 - Selenium Introduction/004 Selenium Features- What you need to know.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Selenium WebDriver Architecture Simplified",
+          "video": "01 - Selenium Introduction/005 Selenium WebDriver Architecture Simplified.mp4",
+          "docs": [
+            "01 - Selenium Introduction/006 Feautures.docx",
+            "01 - Selenium Introduction/006 Selenium-Features.docx",
+            "01 - Selenium Introduction/006 Selenium-WebDriver-Architectue-Simplified.docx",
+            "01 - Selenium Introduction/007 Doc-Final.docx"
+          ]
+        },
+        {
+          "id": "007",
+          "title": "Video Player Setting tips for Best Experience in viewing course",
+          "video": "01 - Selenium Introduction/007 Video Player Setting tips for Best Experience in viewing course.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Install Java & Eclipse - Setup Maven Project from Scratch",
+          "video": "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/001 Install Java & Eclipse - Setup Maven Project from Scratch.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Setting up Eclipse Maven Project with Selenium dependencies from Scratch",
+          "video": "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/002 Setting up Eclipse Maven Project with Selenium dependencies from Scratch.mp4",
+          "docs": [
+            "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/002 javainMAC.docx"
+          ]
+        },
+        {
+          "id": "003",
+          "title": "Understanding the core concept of Browser driver classes and Webdriver Interface",
+          "video": "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/003 Understanding the core concept of Browser driver classes and Webdriver Interface.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "How to run tests in Google Chrome & Importance of Chromedriver.exe file",
+          "video": "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/004 How to run tests in Google Chrome & Importance of Chromedriver.exe file.mp4",
+          "docs": [
+            "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/005 Troubleshooting steps if you fail to invoke chrome browser with Selenium.html"
+          ]
+        },
+        {
+          "id": "006",
+          "title": "Getting Started with basic Selenium WebDriver methods",
+          "video": "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/006 Getting Started with basic Selenium WebDriver methods.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "How to run tests in Firefox and Edge browser with Gecko and edge drivers",
+          "video": "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/007 How to run tests in Firefox and Edge browser with Gecko and edge drivers.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Running the tests in Microsoft Edge browser- Importance of edge driver",
+          "video": "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/008 Running the tests in Microsoft Edge browser- Importance of edge driver.mp4",
+          "docs": [
+            "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/009 Code Download.html",
+            "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/010 Important Note about next section.html",
+            "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/011 Important Note on OS compatibility.html",
+            "02 - Install Java & Selenium -Get Started with basic Steps of the Selenium WebDriver/012 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "03 - Brush up Java Concepts for Selenium Automation",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Course Strategy to learn Java basics for Selenium Automation",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/001 Course Strategy to learn Java basics for Selenium Automation.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Introduction to Java variables and Data types with examples",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/002 Introduction to Java variables and Data types with examples.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "What are Arrays in Java How to initialize and retrieve the values of array",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/003 What are Arrays in Java How to initialize and retrieve the values of array.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Introduction to For loop to iterate over array of Strings and Integers",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/004 Introduction to For loop to iterate over array of Strings and Integers.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Enhanced for loop declaration & using Conditional statements inside the loops",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/005 Enhanced for loop declaration & using Conditional statements inside the loops.mp4",
+          "docs": [
+            "03 - Brush up Java Concepts for Selenium Automation/006 Code download.html",
+            "03 - Brush up Java Concepts for Selenium Automation/007 Array Exploration.html"
+          ]
+        },
+        {
+          "id": "008",
+          "title": "What is Arraylist and differences between Arraylist and Arrays",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/008 What is Arraylist and differences between Arraylist and Arrays.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "Iterating over Arrays and Arraylists and its related methods",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/009 Iterating over Arrays and Arraylists and its related methods.mp4",
+          "docs": []
+        },
+        {
+          "id": "010",
+          "title": "Strings in Java - How to declare Strings & Important String methods",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/010 Strings in Java - How to declare Strings & Important String methods.mp4",
+          "docs": []
+        },
+        {
+          "id": "011",
+          "title": "How to create methods and access methods using Java class objects",
+          "video": "03 - Brush up Java Concepts for Selenium Automation/011 How to create methods and access methods using Java class objects.mp4",
+          "docs": [
+            "03 - Brush up Java Concepts for Selenium Automation/012 Code download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "05 - Locator Techniques& Tools used to identify Objects",
+      "lectures": [
+        {
+          "id": "002",
+          "title": "Importance of locators in Selenium WebDriver to identify the elements",
+          "video": "05 - Locator Techniques& Tools used to identify Objects/002 Importance of locators in Selenium WebDriver to identify the elements.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Identifying the Web elements with id and name locators with example",
+          "video": "05 - Locator Techniques& Tools used to identify Objects/003 Identifying the Web elements with id and name locators with example.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Introducing Class name and Css Selector locators to identify elements",
+          "video": "05 - Locator Techniques& Tools used to identify Objects/004 Introducing Class name and Css Selector locators to identify elements.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Browser plugins- Selectorshub to identify and validate the elements on the page",
+          "video": "05 - Locator Techniques& Tools used to identify Objects/005 Browser plugins- Selectorshub to identify and validate the elements on the page.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Working with Xpath and linktext locators and different ways of writing xpaths",
+          "video": "05 - Locator Techniques& Tools used to identify Objects/006 Working with Xpath and linktext locators and different ways of writing xpaths.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Building Customized Xpath and Css Selector locators based on html attributes",
+          "video": "05 - Locator Techniques& Tools used to identify Objects/007 Building Customized Xpath and Css Selector locators based on html attributes.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Generating xpaths with parent to child tags traverse techniques",
+          "video": "05 - Locator Techniques& Tools used to identify Objects/008 Generating xpaths with parent to child tags traverse techniques.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "06 - Advanced Locators Identification & Interview Questions on Parsing Text",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Generating Css selectors based on regular expressions - Example",
+          "video": "06 - Advanced Locators Identification & Interview Questions on Parsing Text/001 Generating Css selectors based on regular expressions - Example.mp4",
+          "docs": [
+            "06 - Advanced Locators Identification & Interview Questions on Parsing Text/002 Code download.html"
+          ]
+        },
+        {
+          "id": "003",
+          "title": "Identifying web elements based on unique Tag name locators - example",
+          "video": "06 - Advanced Locators Identification & Interview Questions on Parsing Text/003 Identifying web elements based on unique Tag name locators - example.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Generating xpaths based on the button texts on the page with the example",
+          "video": "06 - Advanced Locators Identification & Interview Questions on Parsing Text/004 Generating xpaths based on the button texts on the page with the example.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Parse the String with Java methods to get the password dynamically from the page",
+          "video": "06 - Advanced Locators Identification & Interview Questions on Parsing Text/005 Parse the String with Java methods to get the password dynamically from the page.mp4",
+          "docs": [
+            "06 - Advanced Locators Identification & Interview Questions on Parsing Text/006 Code Download.html"
+          ]
+        },
+        {
+          "id": "007",
+          "title": "Running the tests in cross browser and how to inspect objects in Edge & Firefox",
+          "video": "06 - Advanced Locators Identification & Interview Questions on Parsing Text/007 Running the tests in cross browser and how to inspect objects in Edge & Firefox.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Identify locators using Siblings with Xpath traverse - example",
+          "video": "06 - Advanced Locators Identification & Interview Questions on Parsing Text/008 Identify locators using Siblings with Xpath traverse - example.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "How to Traverse from child element to parent element with xpath - Example",
+          "video": "06 - Advanced Locators Identification & Interview Questions on Parsing Text/009 How to Traverse from child element to parent element with xpath - Example.mp4",
+          "docs": []
+        },
+        {
+          "id": "010",
+          "title": "Automate Browser navigations and window properties with Selenium Webdriver",
+          "video": "06 - Advanced Locators Identification & Interview Questions on Parsing Text/010 Automate Browser navigations and window properties with Selenium Webdriver.mp4",
+          "docs": [
+            "06 - Advanced Locators Identification & Interview Questions on Parsing Text/011 Code download.html",
+            "06 - Advanced Locators Identification & Interview Questions on Parsing Text/012 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "07 - Selenium Webdriver-Techniques to automate Web elements",
+      "lectures": [
+        {
+          "id": "002",
+          "title": "Update with latest Selenium Version - Selenium Manager (Beta)",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/002 Update with latest Selenium Version - Selenium Manager (Beta).mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Handling Static dropdowns with Select webdriver API",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/003 Handling Static dropdowns with Select webdriver API.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Updated lecture on latest Dropdown looping UI",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/004 Updated lecture on latest Dropdown looping UI.mp4",
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/005 Code download.html"
+          ]
+        },
+        {
+          "id": "006",
+          "title": "Handle Dynamic dropdowns with Webdriver API",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/006 Handle Dynamic dropdowns with Webdriver API.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Parent-Child relationship locator to Identify the objects Uniquely",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/007 Parent-Child relationship locator to Identify the objects Uniquely.mp4",
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/008 Code Snippet download.html"
+          ]
+        },
+        {
+          "id": "009",
+          "title": "Handling AutoSuggestive dropdowns using Selenium",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/009 Handling AutoSuggestive dropdowns using Selenium.mp4",
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/010 AutoSuggestive code download.html"
+          ]
+        },
+        {
+          "id": "011",
+          "title": "Handling Checkbox and getting the size of them with Selenium",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/011 Handling Checkbox and getting the size of them with Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "012",
+          "title": "Importance of Assertions in Automation testing and how to use them",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/012 Importance of Assertions in Automation testing and how to use them.mp4",
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/013 Code Snippet download.html"
+          ]
+        },
+        {
+          "id": "014",
+          "title": "Handling Calendar UI in travel websites using Selenium",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/014 Handling Calendar UI in travel websites using Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "015",
+          "title": "Validating if UI Elements are disabled or enabled with Attributes",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/015 Validating if UI Elements are disabled or enabled with Attributes.mp4",
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/016 Code Snippet download.html"
+          ]
+        },
+        {
+          "id": "017",
+          "title": "End to End Automation using all UI Elements with selenium",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/017 End to End Automation using all UI Elements with selenium.mp4",
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/018 Exercise code download.html"
+          ]
+        },
+        {
+          "id": "019",
+          "title": "Handling Java Alerts using Selenium Webdriver",
+          "video": "07 - Selenium Webdriver-Techniques to automate Web elements/019 Handling Java Alerts using Selenium Webdriver.mp4",
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/020 Alerts code download.html",
+            "07 - Selenium Webdriver-Techniques to automate Web elements/021 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "08 - Deep Dive into Functional testing with Selenium",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Code formatting and Debugging",
+          "video": "08 - Deep Dive into Functional testing with Selenium/001 Code formatting and Debugging.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Problem - Adding Items into Cart for Ecommerce App",
+          "video": "08 - Deep Dive into Functional testing with Selenium/002 Problem - Adding Items into Cart for Ecommerce App.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Sending  Array of Products to Cart for checkout",
+          "video": "08 - Deep Dive into Functional testing with Selenium/003 Sending  Array of Products to Cart for checkout.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Building Programming Logic to process items in array for Cart",
+          "video": "08 - Deep Dive into Functional testing with Selenium/004 Building Programming Logic to process items in array for Cart.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Debugging the code to understand how flow is being built",
+          "video": "08 - Deep Dive into Functional testing with Selenium/005 Debugging the code to understand how flow is being built.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Fixing the problem of inconsistent locators and making tests clean",
+          "video": "08 - Deep Dive into Functional testing with Selenium/006 Fixing the problem of inconsistent locators and making tests clean.mp4",
+          "docs": [
+            "08 - Deep Dive into Functional testing with Selenium/007 code download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "09 - Synchronization usage in Selenium webdriver",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "What is Implicit wait Explain with real time scenario",
+          "video": "09 - Synchronization usage in Selenium webdriver/001 What is Implicit wait Explain with real time scenario.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "What is explicit wait Explain with real time scenario",
+          "video": "09 - Synchronization usage in Selenium webdriver/002 What is explicit wait Explain with real time scenario.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Scenario to automate and necessity of waits in the example",
+          "video": "09 - Synchronization usage in Selenium webdriver/003 Scenario to automate and necessity of waits in the example.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Practical examples on Implicit wait",
+          "video": "09 - Synchronization usage in Selenium webdriver/004 Practical examples on Implicit wait.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Practical examples on explicit waits",
+          "video": "09 - Synchronization usage in Selenium webdriver/005 Practical examples on explicit waits.mp4",
+          "docs": [
+            "09 - Synchronization usage in Selenium webdriver/006 code download.html"
+          ]
+        },
+        {
+          "id": "007",
+          "title": "What is Fluent wait  Its advantages",
+          "video": "09 - Synchronization usage in Selenium webdriver/007 What is Fluent wait  Its advantages.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Building Customized methods using FLuent wait",
+          "video": "09 - Synchronization usage in Selenium webdriver/008 Building Customized methods using FLuent wait.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "Practise example on Fluent wait",
+          "video": "09 - Synchronization usage in Selenium webdriver/009 Practise example on Fluent wait.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "10 - Techniques to automate Ajax calls,Child Windows and IFrames",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Handling AjaxMouse Interactions",
+          "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/001 Handling AjaxMouse Interactions.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Actions class-real time example",
+          "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/002 Actions class-real time example.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Window Handle concepts-real time example",
+          "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/003 Window Handle concepts-real time example.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Live Example on working with Child windows",
+          "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/004 Live Example on working with Child windows.mp4",
+          "docs": [
+            "10 - Techniques to automate Ajax calls,Child Windows and IFrames/005 Code download.html"
+          ]
+        },
+        {
+          "id": "006",
+          "title": "How to handle Frames",
+          "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/006 How to handle Frames.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Frames Techniques-real time example",
+          "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/007 Frames Techniques-real time example.mp4",
+          "docs": [
+            "10 - Techniques to automate Ajax calls,Child Windows and IFrames/008 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "11 - Real Time Exercises (end to end Programming)",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Practise Exercise- print the links count in the Page",
+          "video": "11 - Real Time Exercises (end to end Programming)/001 Practise Exercise- print the links count in the Page.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Exercise 1.1-Limiting Webdriver scope",
+          "video": "11 - Real Time Exercises (end to end Programming)/002 Exercise 1.1-Limiting Webdriver scope.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "How to open the links in Separate Tabs - Optimized solution",
+          "video": "11 - Real Time Exercises (end to end Programming)/003 How to open the links in Separate Tabs - Optimized solution.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Getting the Titles of child tabs with optimized while loop",
+          "video": "11 - Real Time Exercises (end to end Programming)/004 Getting the Titles of child tabs with optimized while loop.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Handling calendar UI in Ecommerce Travel websites",
+          "video": "11 - Real Time Exercises (end to end Programming)/006 Handling calendar UI in Ecommerce Travel websites.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Generic method to handle calendar with month and date",
+          "video": "11 - Real Time Exercises (end to end Programming)/007 Generic method to handle calendar with month and date.mp4",
+          "docs": [
+            "11 - Real Time Exercises (end to end Programming)/008 code download.html",
+            "11 - Real Time Exercises (end to end Programming)/009 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "12 - Practical problems and Methods to Handle them with Selenium",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "How to Perform Scrolling with in table and Window level using JavaScriptExecutor",
+          "video": "12 - Practical problems and Methods to Handle them with Selenium/001 How to Perform Scrolling with in table and Window level using JavaScriptExecutor.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "How to handle table Grids in webpage",
+          "video": "12 - Practical problems and Methods to Handle them with Selenium/002 How to handle table Grids in webpage.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Parsing String and comparing with Generated Sum value -Exercise",
+          "video": "12 - Practical problems and Methods to Handle them with Selenium/003 Parsing String and comparing with Generated Sum value -Exercise.mp4",
+          "docs": [
+            "12 - Practical problems and Methods to Handle them with Selenium/004 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "13 - Miscellaneous topics in Selenium WebDriver",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Handling HTTPS certifications in Automated browsers",
+          "video": "13 - Miscellaneous topics in Selenium WebDriver/001 Handling HTTPS certifications in Automated browsers.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Explore Chrome options to set proxies,plugins & paths on Chrome browser",
+          "video": "13 - Miscellaneous topics in Selenium WebDriver/002 Explore Chrome options to set proxies,plugins & paths on Chrome browser.mp4",
+          "docs": [
+            "13 - Miscellaneous topics in Selenium WebDriver/003 Code download.html"
+          ]
+        },
+        {
+          "id": "004",
+          "title": "Maximizing window and deleting cookies",
+          "video": "13 - Miscellaneous topics in Selenium WebDriver/004 Maximizing window and deleting cookies.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "How to take Screenshots in Selenium",
+          "video": "13 - Miscellaneous topics in Selenium WebDriver/005 How to take Screenshots in Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Strategy to automate the broken Links with Selenium",
+          "video": "13 - Miscellaneous topics in Selenium WebDriver/006 Strategy to automate the broken Links with Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Open Connection method to identify status codes of the links",
+          "video": "13 - Miscellaneous topics in Selenium WebDriver/007 Open Connection method to identify status codes of the links.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Iterate over all links in the page to validate broken Links mechanism",
+          "video": "13 - Miscellaneous topics in Selenium WebDriver/008 Iterate over all links in the page to validate broken Links mechanism.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "Importance of Soft Assertions in Selenium WebDriver",
+          "video": "13 - Miscellaneous topics in Selenium WebDriver/009 Importance of Soft Assertions in Selenium WebDriver.mp4",
+          "docs": [
+            "13 - Miscellaneous topics in Selenium WebDriver/010 Code download.html",
+            "13 - Miscellaneous topics in Selenium WebDriver/011 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Important Note - Plan of learning this Section",
+          "video": "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables/001 Important Note - Plan of learning this Section.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Learn everything about Java Streams",
+          "video": "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables/002 Learn everything about Java Streams.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Perform Web Table Sorting using Selenium Java Streams",
+          "video": "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables/003 Perform Web Table Sorting using Selenium Java Streams.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Build Custom Selenium  methods using Streams Mapper",
+          "video": "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables/004 Build Custom Selenium  methods using Streams Mapper.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Automating Pagination Scenarios to search the data using do while loop",
+          "video": "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables/005 Automating Pagination Scenarios to search the data using do while loop.mp4",
+          "docs": [
+            "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables/006 Code Download.html"
+          ]
+        },
+        {
+          "id": "007",
+          "title": "Filter the web table using Selenium Java streams",
+          "video": "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables/007 Filter the web table using Selenium Java streams.mp4",
+          "docs": [
+            "14 - Selenium Java Streams - Automate Sort, Pagination, Filtering the Web Tables/008 Code download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "15 - Selenium 4.0 - Latest Features",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Introduction to Relative Locators - Part 1",
+          "video": "15 - Selenium 4.0 - Latest Features/001 Introduction to Relative Locators - Part 1.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Relative locators with real time examples",
+          "video": "15 - Selenium 4.0 - Latest Features/002 Relative locators with real time examples.mp4",
+          "docs": [
+            "15 - Selenium 4.0 - Latest Features/003 Code Download.html"
+          ]
+        },
+        {
+          "id": "004",
+          "title": "Invoking Multiple WindowsTabs from Selenium",
+          "video": "15 - Selenium 4.0 - Latest Features/004 Invoking Multiple WindowsTabs from Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Taking WebElement Partial Screenshot with Selenium",
+          "video": "15 - Selenium 4.0 - Latest Features/005 Taking WebElement Partial Screenshot with Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "-Capturing Height and Width of WebElement for UX validation",
+          "video": "15 - Selenium 4.0 - Latest Features/006 -Capturing Height and Width of WebElement for UX validation.mp4",
+          "docs": [
+            "15 - Selenium 4.0 - Latest Features/007 Code Download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "16 - Framework Part -1 -  TestNG",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Why TestNG and Its Advantages",
+          "video": "16 - Framework Part -1 -  TestNG/001 Why TestNG and Its Advantages.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Running testcases in TestNG with out Java compiler",
+          "video": "16 - Framework Part -1 -  TestNG/002 Running testcases in TestNG with out Java compiler.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Importance of xml file in Testng configuration",
+          "video": "16 - Framework Part -1 -  TestNG/003 Importance of xml file in Testng configuration.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Prioritizing the Testcases with TestNG",
+          "video": "16 - Framework Part -1 -  TestNG/004 Prioritizing the Testcases with TestNG.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Include and  Exclude Mechanism to control testcases",
+          "video": "16 - Framework Part -1 -  TestNG/005 Include and  Exclude Mechanism to control testcases.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Executing the Testcases at Package level with regex",
+          "video": "16 - Framework Part -1 -  TestNG/006 Executing the Testcases at Package level with regex.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "TestNg Annotations part - 1",
+          "video": "16 - Framework Part -1 -  TestNG/007 TestNg Annotations part - 1.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "TestNG Annotations part - 2",
+          "video": "16 - Framework Part -1 -  TestNG/008 TestNG Annotations part - 2.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "Usage of Groups functionality in TestNG",
+          "video": "16 - Framework Part -1 -  TestNG/009 Usage of Groups functionality in TestNG.mp4",
+          "docs": []
+        },
+        {
+          "id": "010",
+          "title": "Annotations helper attributes with examples",
+          "video": "16 - Framework Part -1 -  TestNG/010 Annotations helper attributes with examples.mp4",
+          "docs": []
+        },
+        {
+          "id": "011",
+          "title": "Parameterising from TestNG xml file",
+          "video": "16 - Framework Part -1 -  TestNG/011 Parameterising from TestNG xml file.mp4",
+          "docs": []
+        },
+        {
+          "id": "012",
+          "title": "DataProvider Annotation -Parameterizing Testcases - 1",
+          "video": "16 - Framework Part -1 -  TestNG/012 DataProvider Annotation -Parameterizing Testcases - 1.mp4",
+          "docs": []
+        },
+        {
+          "id": "013",
+          "title": "DataProvider Annotation -Parameterizing Testcases-2",
+          "video": "16 - Framework Part -1 -  TestNG/013 DataProvider Annotation -Parameterizing Testcases-2.mp4",
+          "docs": []
+        },
+        {
+          "id": "014",
+          "title": "Listeners Interface in TestNG framework",
+          "video": "16 - Framework Part -1 -  TestNG/014 Listeners Interface in TestNG framework.mp4",
+          "docs": []
+        },
+        {
+          "id": "015",
+          "title": "Running Tests in parallel and generating Reports",
+          "video": "16 - Framework Part -1 -  TestNG/015 Running Tests in parallel and generating Reports.mp4",
+          "docs": [
+            "16 - Framework Part -1 -  TestNG/016 TestNg code download.html",
+            "16 - Framework Part -1 -  TestNG/017 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "17 - Learn Java Object Oriented Principles needed for Framework development",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "How TestNG Annotations help with Inheritance to remove boilerPlate code in Test",
+          "video": "17 - Learn Java Object Oriented Principles needed for Framework development/001 How TestNG Annotations help with Inheritance to remove boilerPlate code in Test.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "How to pass values from test through Parameterized Constructor & this keyword",
+          "video": "17 - Learn Java Object Oriented Principles needed for Framework development/002 How to pass values from test through Parameterized Constructor & this keyword.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Usage of Super keyword in the Constructor to pass values to Parent Class",
+          "video": "17 - Learn Java Object Oriented Principles needed for Framework development/003 Usage of Super keyword in the Constructor to pass values to Parent Class.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "FAQs about Framework design - (MUST WATCH)",
+          "video": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/001 FAQs about Framework design - (MUST WATCH).mp4",
+          "docs": [
+            "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/002 Complete Framework Code download.html"
+          ]
+        },
+        {
+          "id": "003",
+          "title": "Create new Maven Project and all Framework dependencies",
+          "video": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/003 Create new Maven Project and all Framework dependencies.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Ecommerce Application Demo which will be used in the Framework",
+          "video": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/004 Ecommerce Application Demo which will be used in the Framework.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Selenium Program on  WebDriverManager - Login-  Get Products List",
+          "video": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/005 Selenium Program on  WebDriverManager - Login-  Get Products List.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Selenium Program to retrieve product and Add to Cart based on Java Streams",
+          "video": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/006 Selenium Program to retrieve product and Add to Cart based on Java Streams.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Implementation of explicit wait to handle  application synchronously  on loading",
+          "video": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/007 Implementation of explicit wait to handle  application synchronously  on loading.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Logic to verify items in the cart with Streams and Checkout",
+          "video": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/008 Logic to verify items in the cart with Streams and Checkout.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "Wrapping up end to end automation Script on Purchasing Order in Ecommerce App",
+          "video": "18 - Framework Part 1  - Create Maven Project and Prepare Functional End to end Test/009 Wrapping up end to end automation Script on Purchasing Order in Ecommerce App.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "What is Page object model Advantages of its implementation",
+          "video": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation/001 What is Page object model Advantages of its implementation.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Creating Page object Classes for Login Screen and migrate the test",
+          "video": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation/002 Creating Page object Classes for Login Screen and migrate the test.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Implementing Action methods for Page factory web elements to implement logic",
+          "video": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation/003 Implementing Action methods for Page factory web elements to implement logic.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Creating Abstract Components to reuse the common methodscode in framework",
+          "video": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation/004 Creating Abstract Components to reuse the common methodscode in framework.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Page object Class implementation for Product catalogue page and update test",
+          "video": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation/005 Page object Class implementation for Product catalogue page and update test.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Speed up your test execution - Fix for Application slowness in the backend",
+          "video": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation/006 Speed up your test execution - Fix for Application slowness in the backend.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Creating common methods to Abstract component and extending it in Page classes",
+          "video": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation/007 Creating common methods to Abstract component and extending it in Page classes.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Wrapping up the whole test with complete refactor into Page object model",
+          "video": "19 - Framework Part 2 - Design Pattern - Page Object & factory Implementation/008 Wrapping up the whole test with complete refactor into Page object model.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "20 - Framework Part 3 -Test Configuration Methods & Global Properties & Parallel Runs",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Creating Base Test which holds Common Test configuration methods",
+          "video": "20 - Framework Part 3 -Test Configuration Methods & Global Properties & Parallel Runs/001 Creating Base Test which holds Common Test configuration methods.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Initialize Driver and create utility to launch App with BeforeMethod annotation",
+          "video": "20 - Framework Part 3 -Test Configuration Methods & Global Properties & Parallel Runs/002 Initialize Driver and create utility to launch App with BeforeMethod annotation.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Create new Error Validation Test as per framework Standards developed until now",
+          "video": "20 - Framework Part 3 -Test Configuration Methods & Global Properties & Parallel Runs/003 Create new Error Validation Test as per framework Standards developed until now.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Implement Test Strategy for Framework on how tests are divided based on modules",
+          "video": "20 - Framework Part 3 -Test Configuration Methods & Global Properties & Parallel Runs/004 Implement Test Strategy for Framework on how tests are divided based on modules.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Create new Test methods with Dependency attribute based on Test Strategy design",
+          "video": "20 - Framework Part 3 -Test Configuration Methods & Global Properties & Parallel Runs/005 Create new Test methods with Dependency attribute based on Test Strategy design.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "How to run testsclasses in Parallel & apply Groups using TestNG.xml",
+          "video": "20 - Framework Part 3 -Test Configuration Methods & Global Properties & Parallel Runs/006 How to run testsclasses in Parallel & apply Groups using TestNG.xml.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "21 - Framework Part 4 - Test Strategy- Control Tests Execution- Run Parallel Tests",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Agenda of implementing  Parameterization into tests with TestNG Data provider",
+          "video": "21 - Framework Part 4 - Test Strategy- Control Tests Execution- Run Parallel Tests/001 Agenda of implementing  Parameterization into tests with TestNG Data provider.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Integration of Hashmap to Data provider to send the data as one Hash object",
+          "video": "21 - Framework Part 4 - Test Strategy- Control Tests Execution- Run Parallel Tests/002 Integration of Hashmap to Data provider to send the data as one Hash object.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "How to read the data from Json files and create the list of Hashmaps for testing",
+          "video": "21 - Framework Part 4 - Test Strategy- Control Tests Execution- Run Parallel Tests/003 How to read the data from Json files and create the list of Hashmaps for testing.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "How to Create Screenshot Utility in Base Test class for catching Failed tests",
+          "video": "21 - Framework Part 4 - Test Strategy- Control Tests Execution- Run Parallel Tests/004 How to Create Screenshot Utility in Base Test class for catching Failed tests.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "22 - Framework Part 5 -Extent HTML reports & TestNG Listeners & Thread Safe execution",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "What are Extent reports Quick 30 minutes Tutorial",
+          "video": "22 - Framework Part 5 -Extent HTML reports & TestNG Listeners & Thread Safe execution/001 What are Extent reports Quick 30 minutes Tutorial.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Integrating Extent reports to existing framework with help of TestNG listeners",
+          "video": "22 - Framework Part 5 -Extent HTML reports & TestNG Listeners & Thread Safe execution/002 Integrating Extent reports to existing framework with help of TestNG listeners.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Attaching Screenshot to reports from Listeners on automatic Test failures",
+          "video": "22 - Framework Part 5 -Extent HTML reports & TestNG Listeners & Thread Safe execution/003 Attaching Screenshot to reports from Listeners on automatic Test failures.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "concurrency problem -Implement ThreadLocal class to avoid sync issues in Tests",
+          "video": "22 - Framework Part 5 -Extent HTML reports & TestNG Listeners & Thread Safe execution/004 concurrency problem -Implement ThreadLocal class to avoid sync issues in Tests.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "IRetry Analyzer to rerun the flaky failed Selenium tests in the framework",
+          "video": "22 - Framework Part 5 -Extent HTML reports & TestNG Listeners & Thread Safe execution/005 IRetry Analyzer to rerun the flaky failed Selenium tests in the framework.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "23 - Framework Part 6 - Test Execution from Maven & Integration with Jenkins CICD",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "How to run tests in the framework  from terminal using Maven commands",
+          "video": "23 - Framework Part 6 - Test Execution from Maven & Integration with Jenkins CICD/001 How to run tests in the framework  from terminal using Maven commands.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Set Global Parameters using Maven commands and Update tests at run time",
+          "video": "23 - Framework Part 6 - Test Execution from Maven & Integration with Jenkins CICD/002 Set Global Parameters using Maven commands and Update tests at run time.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Install Jenkins in the local System for CICD",
+          "video": "23 - Framework Part 6 - Test Execution from Maven & Integration with Jenkins CICD/003 Install Jenkins in the local System for CICD.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Integrate the Selenium framework with Jenkins and Parameterize jenkin job",
+          "video": "23 - Framework Part 6 - Test Execution from Maven & Integration with Jenkins CICD/004 Integrate the Selenium framework with Jenkins and Parameterize jenkin job.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "How to Run tests in headless mode and integrate the parameter in Jenkins",
+          "video": "23 - Framework Part 6 - Test Execution from Maven & Integration with Jenkins CICD/005 How to Run tests in headless mode and integrate the parameter in Jenkins.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Schedule Jenkin Jobs with regular expression and trigger nightly Automation jobs",
+          "video": "23 - Framework Part 6 - Test Execution from Maven & Integration with Jenkins CICD/006 Schedule Jenkin Jobs with regular expression and trigger nightly Automation jobs.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "24 - Framework Part 7-  Common  Selenium Framework OOPS Interview Questions",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Selenium Framework Interview Questions - Part 1",
+          "video": "24 - Framework Part 7-  Common  Selenium Framework OOPS Interview Questions/001 Selenium Framework Interview Questions - Part 1.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Selenium Framework Interview Questions - Part 2",
+          "video": "24 - Framework Part 7-  Common  Selenium Framework OOPS Interview Questions/002 Selenium Framework Interview Questions - Part 2.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Selenium Framework Architecture Diagram - Explained",
+          "video": "24 - Framework Part 7-  Common  Selenium Framework OOPS Interview Questions/003 Selenium Framework Architecture Diagram - Explained.mp4",
+          "docs": [
+            "24 - Framework Part 7-  Common  Selenium Framework OOPS Interview Questions/004 How to showcase Selenium experience to recruiters.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "25 - Framework Part 8 - Integrating Cucumber Wrapper into Selenium Framework",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Important Note - How much Cucumber does this course cover",
+          "video": "25 - Framework Part 8 - Integrating Cucumber Wrapper into Selenium Framework/001 Important Note - How much Cucumber does this course cover.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Introduction to cucumber and its terminologies with examples",
+          "video": "25 - Framework Part 8 - Integrating Cucumber Wrapper into Selenium Framework/002 Introduction to cucumber and its terminologies with examples.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Setting up cucumber dependencies into Framework and create feature files",
+          "video": "25 - Framework Part 8 - Integrating Cucumber Wrapper into Selenium Framework/003 Setting up cucumber dependencies into Framework and create feature files.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Implement Step definitions for features and understand regular expressions",
+          "video": "25 - Framework Part 8 - Integrating Cucumber Wrapper into Selenium Framework/004 Implement Step definitions for features and understand regular expressions.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Inject Selenium code in Step definition and introduction to Tidy Gherkin Plugin",
+          "video": "25 - Framework Part 8 - Integrating Cucumber Wrapper into Selenium Framework/005 Inject Selenium code in Step definition and introduction to Tidy Gherkin Plugin.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Introduction to TestNG Test Runner  to run Cucumber feature files",
+          "video": "25 - Framework Part 8 - Integrating Cucumber Wrapper into Selenium Framework/006 Introduction to TestNG Test Runner  to run Cucumber feature files.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Control the Cucumber feature files execution with Tags and Background keywords",
+          "video": "25 - Framework Part 8 - Integrating Cucumber Wrapper into Selenium Framework/007 Control the Cucumber feature files execution with Tags and Background keywords.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "26 - High five! You're amazing, and you've got this",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Now go crush it!",
+          "video": "26 - High five! You're amazing, and you've got this/001 Now go crush it!.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "27 - GIT- Version Control Tutorial",
+      "lectures": [
+        {
+          "id": "002",
+          "title": "Introduction to GIT",
+          "video": "27 - GIT- Version Control Tutorial/002 Introduction to GIT.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Importance of Github and its uses",
+          "video": "27 - GIT- Version Control Tutorial/003 Importance of Github and its uses.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Creating Git config and repositories",
+          "video": "27 - GIT- Version Control Tutorial/004 Creating Git config and repositories.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "How to push code to remote repository",
+          "video": "27 - GIT- Version Control Tutorial/005 How to push code to remote repository.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Understanding Staging and commit in git",
+          "video": "27 - GIT- Version Control Tutorial/006 Understanding Staging and commit in git.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Add remote repository and push the committed code",
+          "video": "27 - GIT- Version Control Tutorial/007 Add remote repository and push the committed code.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "End to end working example on Git commands -1",
+          "video": "27 - GIT- Version Control Tutorial/008 End to end working example on Git commands -1.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "End to end working example on Git commands -2",
+          "video": "27 - GIT- Version Control Tutorial/009 End to end working example on Git commands -2.mp4",
+          "docs": []
+        },
+        {
+          "id": "010",
+          "title": "Importance of Branching in GIT",
+          "video": "27 - GIT- Version Control Tutorial/010 Importance of Branching in GIT.mp4",
+          "docs": []
+        },
+        {
+          "id": "011",
+          "title": "How to resolve Merge conflicts with GIT",
+          "video": "27 - GIT- Version Control Tutorial/011 How to resolve Merge conflicts with GIT.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "28 - CICD Integration of Selenium Framework with Jenkins & GitHub",
+      "lectures": [
+        {
+          "id": "002",
+          "title": "What is Continuous Integration & Delivery. Understand the flow",
+          "video": "28 - CICD Integration of Selenium Framework with Jenkins & GitHub/002 What is Continuous Integration & Delivery. Understand the flow.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Configure GitHub acc and push the Selenium Framework into repository",
+          "video": "28 - CICD Integration of Selenium Framework with Jenkins & GitHub/003 Configure GitHub acc and push the Selenium Framework into repository.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Install Fresh Jenkins war & configure necessary plugins & create Selenium Job",
+          "video": "28 - CICD Integration of Selenium Framework with Jenkins & GitHub/004 Install Fresh Jenkins war & configure necessary plugins & create Selenium Job.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Understand Github webhook trigger & configure it to activate Selenium Jenkin job",
+          "video": "28 - CICD Integration of Selenium Framework with Jenkins & GitHub/005 Understand Github webhook trigger & configure it to activate Selenium Jenkin job.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "29 - Cross Browser Testing with Selenium Grid",
+      "lectures": [
+        {
+          "id": "002",
+          "title": "What is Selenium Grid Its advantages on bringing down execution time",
+          "video": "29 - Cross Browser Testing with Selenium Grid/002 What is Selenium Grid Its advantages on bringing down execution time.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Getting Started with Grid Infrastructure Setup - Create Components",
+          "video": "29 - Cross Browser Testing with Selenium Grid/003 Getting Started with Grid Infrastructure Setup - Create Components.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Create Node Physical machines and register with Grid-Check Grid health",
+          "video": "29 - Cross Browser Testing with Selenium Grid/004 Create Node Physical machines and register with Grid-Check Grid health.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Create Selenium TestNG tests with Desired capabilities & remote webdriver class",
+          "video": "29 - Cross Browser Testing with Selenium Grid/005 Create Selenium TestNG tests with Desired capabilities & remote webdriver class.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Demo on executing the Selenium scripts in Node machines from Grid Hub",
+          "video": "29 - Cross Browser Testing with Selenium Grid/006 Demo on executing the Selenium scripts in Node machines from Grid Hub.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "30 - Understand Excel Data Driven Testing Functions with examples",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "what is Apache POI API & Download Instructions",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/001 what is Apache POI API & Download Instructions.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Strategy to Access Excel Data",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/002 Strategy to Access Excel Data.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Getting rows and its cells from Sheet",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/003 Getting rows and its cells from Sheet.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Retrieving Data from Excel based on condition",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/004 Retrieving Data from Excel based on condition.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Practise Exercise- Excel Driven testing -1",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/005 Practise Exercise- Excel Driven testing -1.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Practise Exercise- Excel Driven testing -2",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/006 Practise Exercise- Excel Driven testing -2.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Practise Exercise- Excel Driven testing -3",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/007 Practise Exercise- Excel Driven testing -3.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Importance of Data Provider and Excel Integration for better Data driven",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/008 Importance of Data Provider and Excel Integration for better Data driven.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "Understand Dataprovider and how it sends data in Multidimensional array",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/009 Understand Dataprovider and how it sends data in Multidimensional array.mp4",
+          "docs": []
+        },
+        {
+          "id": "010",
+          "title": "Get Excel dependencies and connect from java code to excel",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/010 Get Excel dependencies and connect from java code to excel.mp4",
+          "docs": []
+        },
+        {
+          "id": "011",
+          "title": "Live demo on integrating Excel to Dataprovider to parameterize data",
+          "video": "30 - Understand Excel Data Driven Testing Functions with examples/011 Live demo on integrating Excel to Dataprovider to parameterize data.mp4",
+          "docs": [
+            "30 - Understand Excel Data Driven Testing Functions with examples/012 Code download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "31 - Upload Download functionalities with Selenium using external excel files",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Download and uploading file using file attribute sendKeys with Selenium",
+          "video": "31 - Upload Download functionalities with Selenium using external excel files/001 Download and uploading file using file attribute sendKeys with Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Handle Synchronized toast messages with explicit wait for appear & disappear",
+          "video": "31 - Upload Download functionalities with Selenium using external excel files/002 Handle Synchronized toast messages with explicit wait for appear & disappear.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Write Smart xpath to find table row column cell based on the conditions",
+          "video": "31 - Upload Download functionalities with Selenium using external excel files/003 Write Smart xpath to find table row column cell based on the conditions.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Assignment on building excel utilities - You need to solve it please",
+          "video": "31 - Upload Download functionalities with Selenium using external excel files/004 Assignment on building excel utilities - You need to solve it please.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "End to end solution for updating excel and uploading the file with validations",
+          "video": "31 - Upload Download functionalities with Selenium using external excel files/005 End to end solution for updating excel and uploading the file with validations.mp4",
+          "docs": [
+            "31 - Upload Download functionalities with Selenium using external excel files/006 Code download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts",
+      "lectures": [
+        {
+          "id": "002",
+          "title": "What are Chrome Dev tools Why do we need this for Selenium testing",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/002 What are Chrome Dev tools Why do we need this for Selenium testing.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Understand Device metrics override function to simulate browser as mobile",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/003 Understand Device metrics override function to simulate browser as mobile.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Importance of executeCDP Command to construct the own  CDP functions",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/004 Importance of executeCDP Command to construct the own  CDP functions.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Localization Testing with Selenium 4 using ChromeDevTools Protocols",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/005 Localization Testing with Selenium 4 using ChromeDevTools Protocols.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "How to extract Network Responses and status codes with Selenium  CDP Listeners",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/006 How to extract Network Responses and status codes with Selenium  CDP Listeners.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Intercept Network API Responses with Selenium Chrome dev tools",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/007 Intercept Network API Responses with Selenium Chrome dev tools.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "How to test failed Network request calls with Selenium CDP Commands",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/008 How to test failed Network request calls with Selenium CDP Commands.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "Blocking unwanted Network request calls to speed up the execution with Selenium",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/009 Blocking unwanted Network request calls to speed up the execution with Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "010",
+          "title": "How to emulate network speed with Selenium Chromedevtools Integration",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/010 How to emulate network speed with Selenium Chromedevtools Integration.mp4",
+          "docs": []
+        },
+        {
+          "id": "011",
+          "title": "Working with Basic Authentication using Selenium uriPredicate function",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/011 Working with Basic Authentication using Selenium uriPredicate function.mp4",
+          "docs": []
+        },
+        {
+          "id": "012",
+          "title": "How to log javascript errors from Selenium Script to console for debugging",
+          "video": "32 - Selenium 4 Chrome Dev tools Protocol (CDP) Integration Concepts/012 How to log javascript errors from Selenium Script to console for debugging.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "33 - DataBase connection to Selenium Testcases",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Steps to connect Database to Selenium Testcases",
+          "video": "33 - DataBase connection to Selenium Testcases/001 Steps to connect Database to Selenium Testcases.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "mysql download instructions",
+          "video": "33 - DataBase connection to Selenium Testcases/002 mysql download instructions.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "mySQL server connection procedure",
+          "video": "33 - DataBase connection to Selenium Testcases/003 mySQL server connection procedure.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Creating Database in mysql server",
+          "video": "33 - DataBase connection to Selenium Testcases/004 Creating Database in mysql server.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Creating Tables in Databases",
+          "video": "33 - DataBase connection to Selenium Testcases/005 Creating Tables in Databases.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Jdbc odbc connection overview",
+          "video": "33 - DataBase connection to Selenium Testcases/006 Jdbc odbc connection overview.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Integration of Database with JDBC API",
+          "video": "33 - DataBase connection to Selenium Testcases/007 Integration of Database with JDBC API.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Steps to conect Database info to Selenium - 1",
+          "video": "33 - DataBase connection to Selenium Testcases/008 Steps to conect Database info to Selenium - 1.mp4",
+          "docs": [
+            "33 - DataBase connection to Selenium Testcases/009 Program code download.html"
+          ]
+        },
+        {
+          "id": "010",
+          "title": "Steps to connect Database info to Selenium - 2",
+          "video": "33 - DataBase connection to Selenium Testcases/010 Steps to connect Database info to Selenium - 2.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "34 - GenAI Github copilot plugin for Selenium Java Framework code generation",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Effortlessly generate Selenium Java code with in the editor using GenAI Plugins",
+          "video": "34 - GenAI Github copilot plugin for Selenium Java Framework code generation/001 Effortlessly generate Selenium Java code with in the editor using GenAI Plugins.mp4",
+          "docs": []
+        }
+      ]
+    },
+    {
+      "title": "35 - File Uploading (AUTO IT) & Downloading  with Selenium",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Handling Window Authentication pop ups with Selenium",
+          "video": "35 - File Uploading (AUTO IT) & Downloading  with Selenium/001 Handling Window Authentication pop ups with Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Examples on handling pop ups with modified webdriver url",
+          "video": "35 - File Uploading (AUTO IT) & Downloading  with Selenium/002 Examples on handling pop ups with modified webdriver url.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "What is AutoIT Installation details",
+          "video": "35 - File Uploading (AUTO IT) & Downloading  with Selenium/003 What is AutoIT Installation details.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Inspecting the window objects and converting into AutoIT code",
+          "video": "35 - File Uploading (AUTO IT) & Downloading  with Selenium/004 Inspecting the window objects and converting into AutoIT code.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "End to End example on uploading File with AutoIT Selenium",
+          "video": "35 - File Uploading (AUTO IT) & Downloading  with Selenium/005 End to End example on uploading File with AutoIT Selenium.mp4",
+          "docs": [
+            "35 - File Uploading (AUTO IT) & Downloading  with Selenium/006 Reference Material for AutoIT.html"
+          ]
+        },
+        {
+          "id": "007",
+          "title": "Steps to complete the flow to download file from Application with Selenium",
+          "video": "35 - File Uploading (AUTO IT) & Downloading  with Selenium/007 Steps to complete the flow to download file from Application with Selenium.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Chrome driver options to configure download path of browser",
+          "video": "35 - File Uploading (AUTO IT) & Downloading  with Selenium/008 Chrome driver options to configure download path of browser.mp4",
+          "docs": [
+            "35 - File Uploading (AUTO IT) & Downloading  with Selenium/009 Full Code download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "36 - (OPTIONAL) Maven- Build Management tool InDepth Information",
+      "lectures": [
+        {
+          "id": "002",
+          "title": "Importance of Maven in Framework development",
+          "video": "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/002 Importance of Maven in Framework development.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Installing and configuring Maven",
+          "video": "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/003 Installing and configuring Maven.mp4",
+          "docs": [
+            "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/003 Maven.docx"
+          ]
+        },
+        {
+          "id": "004",
+          "title": "Creating Maven Project and Understanding its Terminologies",
+          "video": "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/004 Creating Maven Project and Understanding its Terminologies.mp4",
+          "docs": []
+        },
+        {
+          "id": "005",
+          "title": "Understanding POM.xml file and its dependencies",
+          "video": "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/005 Understanding POM.xml file and its dependencies.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Importance of surefirePlugin in executing Tests",
+          "video": "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/006 Importance of surefirePlugin in executing Tests.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Integration of Testng with Maven",
+          "video": "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/007 Integration of Testng with Maven.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Switching the Tests with Maven profiling",
+          "video": "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/008 Switching the Tests with Maven profiling.mp4",
+          "docs": [
+            "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/009 code download.html",
+            "36 - (OPTIONAL) Maven- Build Management tool InDepth Information/010 Quiz - Check Your Knowledge.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "37 - Java OOPS Basics for Selenium Part -1",
+      "lectures": [
+        {
+          "id": "002",
+          "title": "When should I use While loop",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/002 When should I use While loop.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "How do while loop works",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/003 How do while loop works.mp4",
+          "docs": [
+            "37 - Java OOPS Basics for Selenium Part -1/004 loops,Conditions code download.html"
+          ]
+        },
+        {
+          "id": "005",
+          "title": "Explanation on Nested for loops",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/005 Explanation on Nested for loops.mp4",
+          "docs": []
+        },
+        {
+          "id": "006",
+          "title": "Practise Exercise on loops -1 { printing pyramid triangle)",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/006 Practise Exercise on loops -1 { printing pyramid triangle).mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Practise Exercise - 2- Yahoo Ques  ( Inverted sequence pyramid logic program)",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/007 Practise Exercise - 2- Yahoo Ques  ( Inverted sequence pyramid logic program).mp4",
+          "docs": [
+            "37 - Java OOPS Basics for Selenium Part -1/008 Nested loops code download.html"
+          ]
+        },
+        {
+          "id": "009",
+          "title": "What is interface",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/009 What is interface.mp4",
+          "docs": []
+        },
+        {
+          "id": "010",
+          "title": "How java classes can take advantage of interfaces",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/010 How java classes can take advantage of interfaces.mp4",
+          "docs": [
+            "37 - Java OOPS Basics for Selenium Part -1/011 Interface code download.html"
+          ]
+        },
+        {
+          "id": "012",
+          "title": "What are Abstract classes and how different they are from Interfaces",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/012 What are Abstract classes and how different they are from Interfaces.mp4",
+          "docs": []
+        },
+        {
+          "id": "013",
+          "title": "Usage of inheritance in java",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/013 Usage of inheritance in java.mp4",
+          "docs": []
+        },
+        {
+          "id": "014",
+          "title": "Practical examples on types of inheritances",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/014 Practical examples on types of inheritances.mp4",
+          "docs": [
+            "37 - Java OOPS Basics for Selenium Part -1/015 Inheritance code download.html"
+          ]
+        },
+        {
+          "id": "016",
+          "title": "Explaining function overloading in java with example",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/016 Explaining function overloading in java with example.mp4",
+          "docs": []
+        },
+        {
+          "id": "017",
+          "title": "How different function overriding from overloading-Explain",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/017 How different function overriding from overloading-Explain.mp4",
+          "docs": [
+            "37 - Java OOPS Basics for Selenium Part -1/018 Demonstration code download.html"
+          ]
+        },
+        {
+          "id": "019",
+          "title": "What are Arrays and their usage in Java programmes",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/019 What are Arrays and their usage in Java programmes.mp4",
+          "docs": []
+        },
+        {
+          "id": "020",
+          "title": "Ways of initializing arrays and assigning objects",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/020 Ways of initializing arrays and assigning objects.mp4",
+          "docs": [
+            "37 - Java OOPS Basics for Selenium Part -1/021 Arrays code download.html"
+          ]
+        },
+        {
+          "id": "022",
+          "title": "Logic Program on Multi Dimensional arrays",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/022 Logic Program on Multi Dimensional arrays.mp4",
+          "docs": []
+        },
+        {
+          "id": "023",
+          "title": "Practise exercise - Print smallest number in 33 matrix",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/023 Practise exercise - Print smallest number in 33 matrix.mp4",
+          "docs": []
+        },
+        {
+          "id": "024",
+          "title": "Practise Exercise -  Cisco Interview question on Arrays",
+          "video": "37 - Java OOPS Basics for Selenium Part -1/024 Practise Exercise -  Cisco Interview question on Arrays.mp4",
+          "docs": [
+            "37 - Java OOPS Basics for Selenium Part -1/025 programming code download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "38 - Core Java Tutorial - Part 2",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "Date class concepts",
+          "video": "38 - Core Java Tutorial - Part 2/001 Date class concepts.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "working with calendar objects in java",
+          "video": "38 - Core Java Tutorial - Part 2/002 working with calendar objects in java.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "How constructor play a crucial role",
+          "video": "38 - Core Java Tutorial - Part 2/003 How constructor play a crucial role.mp4",
+          "docs": []
+        },
+        {
+          "id": "004",
+          "title": "Types of constructors and their usage",
+          "video": "38 - Core Java Tutorial - Part 2/004 Types of constructors and their usage.mp4",
+          "docs": [
+            "38 - Core Java Tutorial - Part 2/005 Constrructor code download.html"
+          ]
+        },
+        {
+          "id": "006",
+          "title": "What is super keyword",
+          "video": "38 - Core Java Tutorial - Part 2/006 What is super keyword.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "super keyword practical usage",
+          "video": "38 - Core Java Tutorial - Part 2/007 super keyword practical usage.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "importance of this keyword",
+          "video": "38 - Core Java Tutorial - Part 2/008 importance of this keyword.mp4",
+          "docs": []
+        },
+        {
+          "id": "009",
+          "title": "Static and Non Static Importance in Java",
+          "video": "38 - Core Java Tutorial - Part 2/009 Static and Non Static Importance in Java.mp4",
+          "docs": []
+        },
+        {
+          "id": "010",
+          "title": "Final keyword in Java",
+          "video": "38 - Core Java Tutorial - Part 2/010 Final keyword in Java.mp4",
+          "docs": []
+        },
+        {
+          "id": "011",
+          "title": "Packages and their usage in OOPS",
+          "video": "38 - Core Java Tutorial - Part 2/011 Packages and their usage in OOPS.mp4",
+          "docs": []
+        },
+        {
+          "id": "012",
+          "title": "Types of packages and how they will help in real time",
+          "video": "38 - Core Java Tutorial - Part 2/012 Types of packages and how they will help in real time.mp4",
+          "docs": []
+        },
+        {
+          "id": "013",
+          "title": "Importance of access modifiers",
+          "video": "38 - Core Java Tutorial - Part 2/013 Importance of access modifiers.mp4",
+          "docs": []
+        },
+        {
+          "id": "014",
+          "title": "Difference between public and private modifers-With Examples",
+          "video": "38 - Core Java Tutorial - Part 2/014 Difference between public and private modifers-With Examples.mp4",
+          "docs": []
+        },
+        {
+          "id": "015",
+          "title": "Different kind of exceptions",
+          "video": "38 - Core Java Tutorial - Part 2/015 Different kind of exceptions.mp4",
+          "docs": []
+        },
+        {
+          "id": "016",
+          "title": "Try catch Mechanism to handle exceptions",
+          "video": "38 - Core Java Tutorial - Part 2/016 Try catch Mechanism to handle exceptions.mp4",
+          "docs": []
+        },
+        {
+          "id": "017",
+          "title": "Importance of finally block in java",
+          "video": "38 - Core Java Tutorial - Part 2/017 Importance of finally block in java.mp4",
+          "docs": [
+            "38 - Core Java Tutorial - Part 2/018 Exception code download.html"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "39 - Core Java Tutorial - Part 3- Collections API",
+      "lectures": [
+        {
+          "id": "001",
+          "title": "What are Java collections",
+          "video": "39 - Core Java Tutorial - Part 3- Collections API/001 What are Java collections.mp4",
+          "docs": []
+        },
+        {
+          "id": "002",
+          "title": "Implementation of Arrays List",
+          "video": "39 - Core Java Tutorial - Part 3- Collections API/002 Implementation of Arrays List.mp4",
+          "docs": []
+        },
+        {
+          "id": "003",
+          "title": "Examples of ArrayList",
+          "video": "39 - Core Java Tutorial - Part 3- Collections API/003 Examples of ArrayList.mp4",
+          "docs": [
+            "39 - Core Java Tutorial - Part 3- Collections API/004 Array List Code download.html",
+            "39 - Core Java Tutorial - Part 3- Collections API/005 Modifying and Analyzing an ArrayList.html"
+          ]
+        },
+        {
+          "id": "006",
+          "title": "Implementation of Set interface",
+          "video": "39 - Core Java Tutorial - Part 3- Collections API/006 Implementation of Set interface.mp4",
+          "docs": []
+        },
+        {
+          "id": "007",
+          "title": "Examples of HashSet using Iterator",
+          "video": "39 - Core Java Tutorial - Part 3- Collections API/007 Examples of HashSet using Iterator.mp4",
+          "docs": []
+        },
+        {
+          "id": "008",
+          "title": "Implementation of Map interface",
+          "video": "39 - Core Java Tutorial - Part 3- Collections API/008 Implementation of Map interface.mp4",
+          "docs": [
+            "39 - Core Java Tutorial - Part 3- Collections API/009 Code explaining hashset and hashmap.html"
+          ]
+        },
+        {
+          "id": "010",
+          "title": "Difference between HashMap and HashTable (Interview )",
+          "video": "39 - Core Java Tutorial - Part 3- Collections API/010 Difference between HashMap and HashTable (Interview ).mp4",
+          "docs": []
+        },
+        {
+          "id": "011",
+          "title": "Practise Exercise  Priniting unique number- Amazon interview ques",
+          "video": "39 - Core Java Tutorial - Part 3- Collections API/011 Practise Exercise  Priniting unique number- Amazon interview ques.mp4",
+          "docs": [
+            "39 - Core Java Tutorial - Part 3- Collections API/012 programming code download.html",
+            "39 - Core Java Tutorial - Part 3- Collections API/013 OOPS Interview questions.html",
+            "39 - Core Java Tutorial - Part 3- Collections API/014 Java interview questions.html"
+          ]
+        }
+      ]
+    }
+  ]
+}

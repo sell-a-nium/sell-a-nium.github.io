@@ -1,0 +1,191 @@
+:root {
+    --bg: #111;
+    --text: #fff;
+    --accent: #4da3ff;
+    --panel: #1b1b1b;
+}
+
+.light {
+    --bg: #f4f4f4;
+    --text: #111;
+    --panel: #fff;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+    background: var(--bg);
+    color: var(--text);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 16px;
+    border-bottom: 1px solid #444;
+    height: 48px;
+    box-sizing: border-box;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 20px;
+    line-height: 1;
+}
+
+#themeToggle {
+    height: 30px;
+    padding: 4px 10px;
+    font-size: 14px;
+}
+
+.layout {
+    display: flex;
+}
+
+.videoArea {
+    flex: 3;
+    padding: 15px;
+}
+
+.playerContainer {
+    position: relative;
+    width: 100%;
+    padding-top: 50%;
+    max-height: 65vh;
+}
+
+.playerContainer iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 8px;
+}
+
+#videoTitle {
+    font-size: 18px;
+    margin-top: 8px;
+    color: var(--accent);
+    font-weight: bold;
+}
+
+.navButtons {
+    margin-top: 10px;
+}
+
+button {
+    padding: 6px 10px;
+    margin-right: 6px;
+    border: none;
+    background: var(--accent);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#docs {
+    margin-top: 12px;
+    background: var(--panel);
+    padding: 10px;
+    border-radius: 6px;
+}
+
+#playlist {
+    flex: 1;
+    height: 90vh;
+    overflow: auto;
+    border-left: 1px solid #444;
+}
+
+.section {
+    padding: 12px;
+    font-weight: bold;
+    background: var(--panel);
+    color: var(--accent);
+    cursor: pointer;
+}
+
+.lecture {
+    padding: 8px 12px;
+    border-bottom: 1px solid #333;
+    cursor: pointer;
+}
+
+.lecture:hover {
+    background: var(--panel);
+}
+
+.active {
+    background: var(--accent);
+    color: white;
+}
+
+.topbar-right{
+display:flex;
+align-items:center;
+}
+
+.signature{
+margin-right:16px;
+padding-right:8px;
+font-size:14px;
+opacity:0.7;
+font-style:italic;
+letter-spacing:1px;
+}
+
+/* ---------- MOBILE RESPONSIVE ---------- */
+
+@media (max-width: 900px) {
+
+    .layout{
+    flex-direction: column;
+    }
+
+    #playlist{
+    order:2;
+    height:auto;
+    border-left:none;
+    border-top:1px solid #444;
+    }
+
+    .videoArea{
+    order:1;
+    }
+
+    .playerContainer{
+    padding-top:56.25%;
+    max-height:none;
+    }
+
+    .navButtons{
+    display:flex;
+    justify-content:space-between;
+    }
+
+    button{
+    flex:1;
+    margin-right:6px;
+    }
+
+    button:last-child{
+    margin-right:0;
+    }
+
+    header h1{
+    font-size:16px;
+    }
+
+    .signature{
+    font-size:12px;
+    }
+
+}
+
+#playlist{
+-webkit-overflow-scrolling: touch;
+}
