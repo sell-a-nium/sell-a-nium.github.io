@@ -299,7 +299,9 @@
           "id": "006",
           "title": "Handle Dynamic dropdowns with Webdriver API",
           "video": "07 - Selenium Webdriver-Techniques to automate Web elements/006 Handle Dynamic dropdowns with Webdriver API.mp4",
-          "docs": []
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/006 dropdown.txt"
+          ]
         },
         {
           "id": "007",
@@ -314,6 +316,7 @@
           "title": "Handling AutoSuggestive dropdowns using Selenium",
           "video": "07 - Selenium Webdriver-Techniques to automate Web elements/009 Handling AutoSuggestive dropdowns using Selenium.mp4",
           "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/009 autoSuggestive.txt",
             "07 - Selenium Webdriver-Techniques to automate Web elements/010 AutoSuggestive code download.html"
           ]
         },
@@ -335,7 +338,9 @@
           "id": "014",
           "title": "Handling Calendar UI in travel websites using Selenium",
           "video": "07 - Selenium Webdriver-Techniques to automate Web elements/014 Handling Calendar UI in travel websites using Selenium.mp4",
-          "docs": []
+          "docs": [
+            "07 - Selenium Webdriver-Techniques to automate Web elements/014 doc.txt"
+          ]
         },
         {
           "id": "015",
@@ -350,7 +355,8 @@
           "title": "End to End Automation using all UI Elements with selenium",
           "video": "07 - Selenium Webdriver-Techniques to automate Web elements/017 End to End Automation using all UI Elements with selenium.mp4",
           "docs": [
-            "07 - Selenium Webdriver-Techniques to automate Web elements/018 Exercise code download.html"
+            "07 - Selenium Webdriver-Techniques to automate Web elements/018 Exercise code download.html",
+            "07 - Selenium Webdriver-Techniques to automate Web elements/018 doc.txt"
           ]
         },
         {
@@ -371,7 +377,9 @@
           "id": "001",
           "title": "Code formatting and Debugging",
           "video": "08 - Deep Dive into Functional testing with Selenium/001 Code formatting and Debugging.mp4",
-          "docs": []
+          "docs": [
+            "08 - Deep Dive into Functional testing with Selenium/001 codeDownload.txt"
+          ]
         },
         {
           "id": "002",
@@ -439,6 +447,7 @@
           "title": "Practical examples on explicit waits",
           "video": "09 - Synchronization usage in Selenium webdriver/005 Practical examples on explicit waits.mp4",
           "docs": [
+            "09 - Synchronization usage in Selenium webdriver/005 code.txt",
             "09 - Synchronization usage in Selenium webdriver/006 code download.html"
           ]
         },
@@ -469,13 +478,17 @@
           "id": "001",
           "title": "Handling AjaxMouse Interactions",
           "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/001 Handling AjaxMouse Interactions.mp4",
-          "docs": []
+          "docs": [
+            "10 - Techniques to automate Ajax calls,Child Windows and IFrames/001 doc.txt"
+          ]
         },
         {
           "id": "002",
           "title": "Actions class-real time example",
           "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/002 Actions class-real time example.mp4",
-          "docs": []
+          "docs": [
+            "10 - Techniques to automate Ajax calls,Child Windows and IFrames/002 doc.txt"
+          ]
         },
         {
           "id": "003",
@@ -495,7 +508,9 @@
           "id": "006",
           "title": "How to handle Frames",
           "video": "10 - Techniques to automate Ajax calls,Child Windows and IFrames/006 How to handle Frames.mp4",
-          "docs": []
+          "docs": [
+            "10 - Techniques to automate Ajax calls,Child Windows and IFrames/006 doc.txt"
+          ]
         },
         {
           "id": "007",
@@ -532,7 +547,9 @@
           "id": "004",
           "title": "Getting the Titles of child tabs with optimized while loop",
           "video": "11 - Real Time Exercises (end to end Programming)/004 Getting the Titles of child tabs with optimized while loop.mp4",
-          "docs": []
+          "docs": [
+            "11 - Real Time Exercises (end to end Programming)/005 code.txt"
+          ]
         },
         {
           "id": "006",
@@ -583,7 +600,10 @@
           "id": "001",
           "title": "Handling HTTPS certifications in Automated browsers",
           "video": "13 - Miscellaneous topics in Selenium WebDriver/001 Handling HTTPS certifications in Automated browsers.mp4",
-          "docs": []
+          "docs": [
+            "13 - Miscellaneous topics in Selenium WebDriver/001 codeDownload.txt",
+            "13 - Miscellaneous topics in Selenium WebDriver/001 doc.txt"
+          ]
         },
         {
           "id": "002",
@@ -603,7 +623,9 @@
           "id": "005",
           "title": "How to take Screenshots in Selenium",
           "video": "13 - Miscellaneous topics in Selenium WebDriver/005 How to take Screenshots in Selenium.mp4",
-          "docs": []
+          "docs": [
+            "13 - Miscellaneous topics in Selenium WebDriver/005 codeDownload.txt"
+          ]
         },
         {
           "id": "006",
@@ -743,7 +765,9 @@
           "id": "004",
           "title": "Prioritizing the Testcases with TestNG",
           "video": "16 - Framework Part -1 -  TestNG/004 Prioritizing the Testcases with TestNG.mp4",
-          "docs": []
+          "docs": [
+            "16 - Framework Part -1 -  TestNG/004 doc.txt"
+          ]
         },
         {
           "id": "005",
@@ -767,7 +791,9 @@
           "id": "008",
           "title": "TestNG Annotations part - 2",
           "video": "16 - Framework Part -1 -  TestNG/008 TestNG Annotations part - 2.mp4",
-          "docs": []
+          "docs": [
+            "16 - Framework Part -1 -  TestNG/008 doc.txt"
+          ]
         },
         {
           "id": "009",
@@ -1330,13 +1356,17 @@
           "id": "004",
           "title": "Retrieving Data from Excel based on condition",
           "video": "30 - Understand Excel Data Driven Testing Functions with examples/004 Retrieving Data from Excel based on condition.mp4",
-          "docs": []
+          "docs": [
+            "30 - Understand Excel Data Driven Testing Functions with examples/004 doc.txt"
+          ]
         },
         {
           "id": "005",
           "title": "Practise Exercise- Excel Driven testing -1",
           "video": "30 - Understand Excel Data Driven Testing Functions with examples/005 Practise Exercise- Excel Driven testing -1.mp4",
-          "docs": []
+          "docs": [
+            "30 - Understand Excel Data Driven Testing Functions with examples/005 doc.txt"
+          ]
         },
         {
           "id": "006",
@@ -1403,7 +1433,9 @@
           "id": "004",
           "title": "Assignment on building excel utilities - You need to solve it please",
           "video": "31 - Upload Download functionalities with Selenium using external excel files/004 Assignment on building excel utilities - You need to solve it please.mp4",
-          "docs": []
+          "docs": [
+            "31 - Upload Download functionalities with Selenium using external excel files/004 code-1.txt"
+          ]
         },
         {
           "id": "005",
@@ -1493,7 +1525,9 @@
           "id": "001",
           "title": "Steps to connect Database to Selenium Testcases",
           "video": "33 - DataBase connection to Selenium Testcases/001 Steps to connect Database to Selenium Testcases.mp4",
-          "docs": []
+          "docs": [
+            "33 - DataBase connection to Selenium Testcases/002 doc.txt"
+          ]
         },
         {
           "id": "002",
@@ -1529,14 +1563,17 @@
           "id": "007",
           "title": "Integration of Database with JDBC API",
           "video": "33 - DataBase connection to Selenium Testcases/007 Integration of Database with JDBC API.mp4",
-          "docs": []
+          "docs": [
+            "33 - DataBase connection to Selenium Testcases/007 doc.txt"
+          ]
         },
         {
           "id": "008",
           "title": "Steps to conect Database info to Selenium - 1",
           "video": "33 - DataBase connection to Selenium Testcases/008 Steps to conect Database info to Selenium - 1.mp4",
           "docs": [
-            "33 - DataBase connection to Selenium Testcases/009 Program code download.html"
+            "33 - DataBase connection to Selenium Testcases/009 Program code download.html",
+            "33 - DataBase connection to Selenium Testcases/009 doc.txt"
           ]
         },
         {
@@ -1789,7 +1826,9 @@
           "id": "001",
           "title": "Date class concepts",
           "video": "38 - Core Java Tutorial - Part 2/001 Date class concepts.mp4",
-          "docs": []
+          "docs": [
+            "38 - Core Java Tutorial - Part 2/002 doc.txt"
+          ]
         },
         {
           "id": "002",
@@ -1801,14 +1840,17 @@
           "id": "003",
           "title": "How constructor play a crucial role",
           "video": "38 - Core Java Tutorial - Part 2/003 How constructor play a crucial role.mp4",
-          "docs": []
+          "docs": [
+            "38 - Core Java Tutorial - Part 2/003 doc.txt"
+          ]
         },
         {
           "id": "004",
           "title": "Types of constructors and their usage",
           "video": "38 - Core Java Tutorial - Part 2/004 Types of constructors and their usage.mp4",
           "docs": [
-            "38 - Core Java Tutorial - Part 2/005 Constrructor code download.html"
+            "38 - Core Java Tutorial - Part 2/005 Constrructor code download.html",
+            "38 - Core Java Tutorial - Part 2/005 doc.txt"
           ]
         },
         {
@@ -1821,7 +1863,9 @@
           "id": "007",
           "title": "super keyword practical usage",
           "video": "38 - Core Java Tutorial - Part 2/007 super keyword practical usage.mp4",
-          "docs": []
+          "docs": [
+            "38 - Core Java Tutorial - Part 2/008 doc.txt"
+          ]
         },
         {
           "id": "008",
@@ -1851,7 +1895,9 @@
           "id": "012",
           "title": "Types of packages and how they will help in real time",
           "video": "38 - Core Java Tutorial - Part 2/012 Types of packages and how they will help in real time.mp4",
-          "docs": []
+          "docs": [
+            "38 - Core Java Tutorial - Part 2/012 doc.txt"
+          ]
         },
         {
           "id": "013",
@@ -1863,7 +1909,9 @@
           "id": "014",
           "title": "Difference between public and private modifers-With Examples",
           "video": "38 - Core Java Tutorial - Part 2/014 Difference between public and private modifers-With Examples.mp4",
-          "docs": []
+          "docs": [
+            "38 - Core Java Tutorial - Part 2/014 doc.txt"
+          ]
         },
         {
           "id": "015",
@@ -1882,7 +1930,9 @@
           "title": "Importance of finally block in java",
           "video": "38 - Core Java Tutorial - Part 2/017 Importance of finally block in java.mp4",
           "docs": [
-            "38 - Core Java Tutorial - Part 2/018 Exception code download.html"
+            "38 - Core Java Tutorial - Part 2/017 doc.txt",
+            "38 - Core Java Tutorial - Part 2/018 Exception code download.html",
+            "38 - Core Java Tutorial - Part 2/018 doc.txt"
           ]
         }
       ]
@@ -1908,6 +1958,7 @@
           "video": "39 - Core Java Tutorial - Part 3- Collections API/003 Examples of ArrayList.mp4",
           "docs": [
             "39 - Core Java Tutorial - Part 3- Collections API/004 Array List Code download.html",
+            "39 - Core Java Tutorial - Part 3- Collections API/004 doc.txt",
             "39 - Core Java Tutorial - Part 3- Collections API/005 Modifying and Analyzing an ArrayList.html"
           ]
         },
@@ -1928,7 +1979,8 @@
           "title": "Implementation of Map interface",
           "video": "39 - Core Java Tutorial - Part 3- Collections API/008 Implementation of Map interface.mp4",
           "docs": [
-            "39 - Core Java Tutorial - Part 3- Collections API/009 Code explaining hashset and hashmap.html"
+            "39 - Core Java Tutorial - Part 3- Collections API/009 Code explaining hashset and hashmap.html",
+            "39 - Core Java Tutorial - Part 3- Collections API/009 doc.txt"
           ]
         },
         {
@@ -1942,6 +1994,7 @@
           "title": "Practise Exercise  Priniting unique number- Amazon interview ques",
           "video": "39 - Core Java Tutorial - Part 3- Collections API/011 Practise Exercise  Priniting unique number- Amazon interview ques.mp4",
           "docs": [
+            "39 - Core Java Tutorial - Part 3- Collections API/012 doc.txt",
             "39 - Core Java Tutorial - Part 3- Collections API/012 programming code download.html",
             "39 - Core Java Tutorial - Part 3- Collections API/013 OOPS Interview questions.html",
             "39 - Core Java Tutorial - Part 3- Collections API/014 Java interview questions.html"
